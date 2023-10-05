@@ -1,0 +1,61 @@
+('C:\\Users\\Zain Ali\\Undergrad\\Sem 1\\CPSC 110\\Past '
+ 'Exams\\build\\download-all\\download-all.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Zain Ali\\Undergrad\\Sem 1\\CPSC 110\\Past '
+   'Exams\\build\\download-all\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Zain Ali\\Undergrad\\Sem 1\\CPSC 110\\Past '
+   'Exams\\build\\download-all\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Zain Ali\\Undergrad\\Sem 1\\CPSC 110\\Past '
+   'Exams\\build\\download-all\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Zain Ali\\Undergrad\\Sem 1\\CPSC 110\\Past '
+   'Exams\\build\\download-all\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Zain Ali\\Undergrad\\Sem 1\\CPSC 110\\Past '
+   'Exams\\build\\download-all\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Zain Ali\\Undergrad\\Sem 1\\CPSC 110\\Past '
+   'Exams\\build\\download-all\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Zain '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Zain '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Zain '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Zain '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('download-all',
+   'C:\\Users\\Zain Ali\\Undergrad\\Sem 1\\CPSC 110\\Past '
+   'Exams\\download-all.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
